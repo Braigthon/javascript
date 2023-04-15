@@ -1,5 +1,5 @@
 # Chapter 1
-aqui haremos un ejemplo de como iniciar en el mundo de javascript
+And here lies the hello world for JS programming language.
  ```
    <script>
     alert( 'Hello, world!' );
